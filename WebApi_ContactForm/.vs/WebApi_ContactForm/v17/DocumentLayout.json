@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__SKOLAN_ASP.NET_WEBAPI_WEBAPI_CONTACTFORM_INFRASTRUCTURE_DATA_DATABASE_API_DATABASE.MDF/True/SqlTable/dbo.Contacts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|c:\\skolan\\asp.net\\webapi\\webapi_contactform\\infrastructure\\factories\\contactfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\factories\\contactfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|c:\\skolan\\asp.net\\webapi\\webapi_contactform\\infrastructure\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C57156-CF7C-4A16-814B-A089F105D93F}|WebApi_ContactForm\\WebApi_ContactForm.csproj|c:\\skolan\\asp.net\\webapi\\webapi_contactform\\webapi_contactform\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C57156-CF7C-4A16-814B-A089F105D93F}|WebApi_ContactForm\\WebApi_ContactForm.csproj|solutionrelative:webapi_contactform\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C57156-CF7C-4A16-814B-A089F105D93F}|WebApi_ContactForm\\WebApi_ContactForm.csproj|c:\\skolan\\asp.net\\webapi\\webapi_contactform\\webapi_contactform\\controllers\\optioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C57156-CF7C-4A16-814B-A089F105D93F}|WebApi_ContactForm\\WebApi_ContactForm.csproj|solutionrelative:webapi_contactform\\controllers\\optioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|c:\\skolan\\asp.net\\webapi\\webapi_contactform\\infrastructure\\models\\contactregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\contactregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|c:\\skolan\\asp.net\\webapi\\webapi_contactform\\infrastructure\\models\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|c:\\skolan\\asp.net\\webapi\\webapi_contactform\\infrastructure\\data\\entities\\contactentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\entities\\contactentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|c:\\skolan\\asp.net\\webapi\\webapi_contactform\\infrastructure\\data\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|c:\\skolan\\asp.net\\webapi\\webapi_contactform\\infrastructure\\data\\entities\\optionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43363768-C071-473E-BB41-3BEC7756A46B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\entities\\optionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OptionEntity.cs",
+              "DocumentMoniker": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Data\\Entities\\OptionEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Entities\\OptionEntity.cs",
+              "ToolTip": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Data\\Entities\\OptionEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Entities\\OptionEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:53:53.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\WebApi_ContactForm\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "WebApi_ContactForm\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\WebApi_ContactForm\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "WebApi_ContactForm\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:14:29.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactFactory.cs",
+              "DocumentMoniker": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Factories\\ContactFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Factories\\ContactFactory.cs",
+              "ToolTip": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Factories\\ContactFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Factories\\ContactFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:19:52.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Contacts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__SKOLAN_ASP.NET_WEBAPI_WEBAPI_CONTACTFORM_INFRASTRUCTURE_DATA_DATABASE_API_DATABASE.MDF/True/SqlTable/dbo.Contacts.sql",
+              "ToolTip": "dbo.Contacts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-03T07:47:02.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Data\\Contexts\\ApiContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Contexts\\ApiContext.cs",
+              "ToolTip": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Data\\Contexts\\ApiContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Contexts\\ApiContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:53:56.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactRegistrationForm.cs",
+              "DocumentMoniker": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Models\\ContactRegistrationForm.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\ContactRegistrationForm.cs",
+              "ToolTip": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Models\\ContactRegistrationForm.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\ContactRegistrationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:54:36.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OptionController.cs",
+              "DocumentMoniker": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\WebApi_ContactForm\\Controllers\\OptionController.cs",
+              "RelativeDocumentMoniker": "WebApi_ContactForm\\Controllers\\OptionController.cs",
+              "ToolTip": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\WebApi_ContactForm\\Controllers\\OptionController.cs",
+              "RelativeToolTip": "WebApi_ContactForm\\Controllers\\OptionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:46:39.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Contact.cs",
+              "ToolTip": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Models\\Contact.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:22:59.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Option.cs",
+              "DocumentMoniker": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Models\\Option.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Option.cs",
+              "ToolTip": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Models\\Option.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Option.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:54:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactEntity.cs",
+              "DocumentMoniker": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Data\\Entities\\ContactEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Entities\\ContactEntity.cs",
+              "ToolTip": "C:\\Skolan\\ASP.NET\\WebApi\\WebApi_ContactForm\\Infrastructure\\Data\\Entities\\ContactEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Entities\\ContactEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:17:03.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
